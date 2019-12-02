@@ -1,6 +1,6 @@
 # Movie-Insights
 ## ANALYZING IMDB RATINGS OF MOVIES ACROSS 100 YEARS.
-This repository contains an analysis of [IMDB](https://en.wikipedia.org/wiki/IMDb) ratings of movies across 100 years. The insights were used to advise on the criterias to have n mind when selecting a movie to watch from a collection. The data was also used to ascertain if IMDB is a reliable platform to use when checking for ratings of movies. This repository contains the summary of the project and the coding materials. Further analysis and in-depth visulization is published in my medium article [here](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
+This repository contains an analysis of [IMDB](https://en.wikipedia.org/wiki/IMDb) ratings of movies across 100 years. The insights were used to advise on the criterias to have in mind when selecting a movie to watch from a collection. The data was also used to ascertain if IMDB is a reliable platform to use when checking for ratings of movies. This repository contains the summary of the project and the coding materials. Further analysis and in-depth visulization is published in my medium article [here](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
 
 ![](https://github.com/EdidiongEsu/Movie-Insights/blob/master/Pictures/a7259820-c201-0133-7756-0e7c926a42af.jpg)
 
